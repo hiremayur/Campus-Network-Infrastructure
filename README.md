@@ -29,5 +29,5 @@ This project demonstrates the setup of a **Campus Network** with multiple VLANs,
 3. Test connectivity via simulation mode.
 
 # 📧 Contact
-For any queries or suggestions, feel free to connect on LinkedIn:.
+For any queries or suggestions, feel free to connect on LinkedIn:https://www.linkedin.com/in/mayur-hire-1a775825a/.
 
